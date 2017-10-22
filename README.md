@@ -1,8 +1,9 @@
-# Deep_Learning
+# Deep Learning Specialization
 
-Neural Networks and Deep Learning
+### Course-1: Neural Networks and Deep Learning
 
 It includes-
+
 ## 1) Python Basics with NumPy:
 - Learn how to use numpy.
 - Implement some basic core deep learning functions such as the softmax, sigmoid, dsigmoid, etc...
