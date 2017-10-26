@@ -23,3 +23,7 @@ It includes-
 - Recognize that the more hidden layers you have the more complex structure you could capture.
 - Build all the helper functions to implement a full model with one hidden layer.
 
+### 4) Deep Neural Network Application:
+- implement a Deep NN
+- perform Image Classification
+- improve the performance compared to the Logistic Regression model
